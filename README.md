@@ -4,9 +4,10 @@ This project involves creating and analyzing a structured retail product databas
 
 ## Objective:
 The goal of this project is to improve revenue of online Retail Company and produce recommendations for its marketing and sales teams.
+<img width="567" height="411" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/efce5bd1-fd76-4f2c-b82a-097f0ba1732b" />
+
 ## Schema Design:
 The database contains the following core tables:
-
 - `info(product_id, product_name, description)`
 - `finance(product_id, listing_price, sale_price, discount, revenue)`
 - `brands(product_id, brand)`
