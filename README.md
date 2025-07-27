@@ -4,6 +4,7 @@ This project involves creating and analyzing a structured retail product databas
 
 ## Objective:
 The goal of this project is to improve revenue of online Retail Company and produce recommendations for its marketing and sales teams.
+
 <img width="500" height="400" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/efce5bd1-fd76-4f2c-b82a-097f0ba1732b" />
 <img width="500" height="400" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/be55ec53-eccf-471b-a4e7-8a234b3bac9d" />
 
