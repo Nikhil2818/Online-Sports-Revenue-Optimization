@@ -26,7 +26,7 @@ The database contains the following core tables:
   - Missing finance details
   - Missing last visited timestamps
   - Removed all such inconsistent records across all tables using a temporary table approach.
-  - 
+  
 ## Key Queries:
 🔹 **Brand-wise Revenue** & their percentage share in total revenue  
 🔹 **Revenue by Discount Strategy** for Adidas and Nike  
